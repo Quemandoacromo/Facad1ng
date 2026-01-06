@@ -5,15 +5,26 @@
     </a>
 </p>
 
-Facad1ng is an open-source URL masking tool designed to help you Hide Phishing URLs and make them look legit using social engineering techniques.
+Facad1ng is an open-source URL masking and analysis tool designed for **security research, phishing awareness, and defensive testing**.  
+It demonstrates how adversaries may disguise malicious links using URL manipulation and social engineering techniques, helping defenders understand and mitigate such attacks.
+
+## 🧭 MITRE ATT&CK Mapping
+
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-T1665-blue)
+![Tidal Cyber](https://img.shields.io/badge/Referenced%20by-Tidal%20Cyber-0aa2a2)
+
+Mapped to **MITRE ATT&CK® T1665 – Hide Infrastructure (Command and Control)**.  
+This project is publicly referenced by **Tidal Cyber (Community Edition)** as part of adversary behavior research.
+
+🔗 https://app.tidalcyber.com/references/bd80f3d7-e653-5f8f-ba8a-00b8780ae935
 
 > [!IMPORTANT]
-> This tool is a Proof of Concept and is for Educational Purposes Only.
-
-> [!CAUTION] 
-> **Please use this responsibly and ethically.**
-> <h4> DISCLAIMER </h4> 
-> It is possible to use Facad1ng for nefarious purposes. It merely illustrates what adept attackers are capable of. Defenders have a responsibility to consider such attacks and protect their users from them. Using Facad1ng should only be done with the written permission of the targeted parties for legitimate penetration testing assignments.
+> **Educational & Defensive Use Only**
+>
+> Facad1ng is a proof-of-concept project intended for **security research, phishing awareness training, and authorized penetration testing**.
+> It demonstrates techniques used by real-world attackers so defenders can better recognize, detect, and prevent them.
+>
+> Unauthorized or malicious use is strictly discouraged.
 
 ### Run Online Free On Google Colab
 
